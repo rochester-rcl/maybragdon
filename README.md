@@ -1,6 +1,6 @@
 # May Bragdon
 
-> Islandora customizations and theming for the May Bragdon Project.
+###### Islandora customizations and theming for the May Bragdon Project.
 
 ---
 
