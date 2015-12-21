@@ -3,9 +3,7 @@
 /*
 /*/
 
-#don't ignore the compound object viewer
 
-!all/modules/islandora_solution_pack_compound/
 
 
 #don't ignore maybragdon folder or gitignore file
@@ -13,3 +11,14 @@
 !rclind.lib.rochester.edu.maybragdon/
 rclind.lib.rochester.edu.maybragdon/files
 !.gitignore
+
+#don't ignore the compound object viewer
+
+!all/
+
+all/*
+!all/modules
+
+all/modules/*
+!all/modules/islandora_solution_pack_compound/
+
