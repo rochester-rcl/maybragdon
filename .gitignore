@@ -1,0 +1,10 @@
+#ignore everything 
+
+/*
+/*/
+
+#don't ignore maybragdon folder or gitignore file
+
+!rclind.lib.rochester.edu.maybragdon/
+rclind.lib.rochester.edu.maybragdon/files
+!.gitignore
