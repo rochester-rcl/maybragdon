@@ -1,0 +1,27 @@
+/* ----------------------------
+
+MASTER STYLESHEET
+-------------------------------
+This is the master stylesheet.
+It contains all styles for this
+sub-theme.
+-------------------------------*/
+
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+/* TABLE OF CONTENTS */
+
+/* 1. COMMON - Global styles*/
+@import url("common.css");
+
+/* 2. NAV - Navigation/header styles*/
+@import url("nav.css");
+
+/* 3. All Pages: About us, FAQ */
+@import url("page.css");
+
+/* 4. Landing Page - Global styles*/
+@import url("front-page.css");
+
+/* 5. Slideshow */
+@import url("slideshow.css");
