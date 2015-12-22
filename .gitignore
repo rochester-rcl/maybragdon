@@ -22,3 +22,8 @@ all/*
 all/modules/*
 !all/modules/islandora_solution_pack_compound/
 
+!all/themes
+all/themes/*
+
+!all/themes/maybragdon
+
